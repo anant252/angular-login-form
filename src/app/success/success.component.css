@@ -1,0 +1,21 @@
+.success-block {
+    /* background: #94c23f; */
+    color: #94c23f;
+    padding: 10px;
+    font-family: Source Sans Pro;
+    margin:auto;
+    display:block;
+}
+.goback-button{
+    
+    width: 150px;
+    height: 45px;
+    background: #008f9c;
+    color: white;
+    border-radius: 0px;
+    font-family: Source Sans Pro;
+    font-size: 18px;
+    margin:auto;
+    display:block;
+    
+}
